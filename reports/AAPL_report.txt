@@ -1,0 +1,36 @@
+STOCK MARKET DATA ANALYSIS REPORT
+=================================
+Ticker        : AAPL
+Period        : 2024-11-25 to 2026-11-20 (499 trading days)
+Generated on  : 2026-11-23 18:54
+
+PRICE SUMMARY
+-------------
+Start price   : 231.02
+End price     : 342.56
+Total return  : 48.28%
+Highest close : 356.27 on 2026-11-13
+Lowest close  : 171.24 on 2025-04-08
+
+RETURN & RISK
+-------------
+Average daily return : 0.096%
+Daily volatility     : 1.832%
+Annual volatility    : 29.08%  -> Risk level: Moderate
+Sharpe ratio (rf=0)  : 0.83
+Maximum drawdown     : -33.36%
+Best day / Worst day : 15.33% / -9.25%
+Positive days        : 53.0%
+
+TREND
+-----
+Current trend (SMA20 vs SMA50): Uptrend (Bullish)
+
+KEY INSIGHTS
+------------
+1. The stock returned 48.3% over the period with moderate risk.
+2. Its worst peak-to-trough fall was -33.4%.
+3. The latest trend signal is: Uptrend (Bullish).
+4. It closed higher on 53% of trading days.
+
+DISCLAIMER: This report is for educational purposes only and is NOT financial advice.
